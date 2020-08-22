@@ -1,0 +1,118 @@
+
+
+
+h1 {
+  font-size: 100pt;
+  font-family: 'Acme', sans-serif;
+  color: rgb(71, 181, 115);
+  font-weight: 1000;
+  
+}
+
+h3 {
+  font-size: 12pt;
+  font-family: 'Acme', sans-serif;
+  color: rgb(71, 181, 115);
+}
+
+h4{
+  font-size: 10pt;
+  font-family: 'Acme', sans-serif;
+  color: white;
+  text-align: right;
+  
+  
+  
+  
+}
+
+  h5{
+    font-size: 10pt;
+    font-family: 'Acme', sans-serif;
+    color: white;
+    text-align: center;
+  
+  .button{
+  background-color: rgb(44, 56, 94);
+  border: none;
+  border-bottom-style: solid;
+  color: rgb(44, 56, 94);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  align: center;
+}
+ 
+    
+  }
+
+
+
+
+
+
+h6{
+  font-size: 10pt;
+  font-family: 'Acme', sans-serif;
+  color: black;
+}
+
+
+
+#home {
+  margin-top: 0px;
+  position: relative;
+  left: -8px;
+  width: 100vw;
+  height: 800vh;
+  padding-top: 3em;
+  padding-right: 11em;
+  padding-left: 3em;
+ 
+  
+  background: url(https://images.unsplash.com/photo-1546513027-cd32829de838?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80) center 60%;
+  background-size: cover;
+}
+.header-tag {
+  text-align: center;
+  text-shadow: 1px 1px 2px black;
+    
+}
+h2{
+  font-family: 'Acme', sans-serif;
+  color: white;
+  font-size: 20pt
+  
+}
+
+.rectangle{
+  height: 200px;
+  width: 1500px;
+  background-color: rgb(51, 110, 107);
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: rgb(95, 110, 107);
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  font-family: 'Acme', san-serif;
+  text-align: center;
+  
+  
+}
+.main{
+  text-align: left;
+
+
+  /*Cannot get the buttons to move to the places they should be and I cannot figure out the blank tab, so tried a creative angle and got them to at least go to HULU*/
